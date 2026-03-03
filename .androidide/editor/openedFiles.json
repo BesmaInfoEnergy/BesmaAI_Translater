@@ -104,7 +104,22 @@
           "line": 20
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/.gitignore",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1428,
+          "line": 83
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/res/drawable/result_background_placeholder.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/.gitignore"
 }
