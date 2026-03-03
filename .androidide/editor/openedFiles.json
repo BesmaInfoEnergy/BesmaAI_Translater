@@ -1,0 +1,110 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1760,
+          "line": 59
+        },
+        "start": {
+          "column": 0,
+          "index": 1760,
+          "line": 59
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1036,
+          "line": 26
+        },
+        "start": {
+          "column": 0,
+          "index": 1036,
+          "line": 26
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 4705,
+          "line": 113
+        },
+        "start": {
+          "column": 0,
+          "index": 4705,
+          "line": 113
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/java/com/besmainfoenergy/besmaai_translater/ApiClient.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 2230,
+          "line": 60
+        },
+        "start": {
+          "column": 0,
+          "index": 2230,
+          "line": 60
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/java/com/besmainfoenergy/besmaai_translater/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 2384,
+          "line": 70
+        },
+        "start": {
+          "column": 0,
+          "index": 2384,
+          "line": 70
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/res/xml/network_security_config.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 563,
+          "line": 13
+        },
+        "start": {
+          "column": 0,
+          "index": 563,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/res/drawable/result_background_placeholder.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 436,
+          "line": 20
+        },
+        "start": {
+          "column": 0,
+          "index": 436,
+          "line": 20
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/res/drawable/result_background_placeholder.xml"
+}
