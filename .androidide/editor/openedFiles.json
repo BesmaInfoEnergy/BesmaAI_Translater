@@ -50,13 +50,13 @@
       "selection": {
         "end": {
           "column": 0,
-          "index": 2230,
-          "line": 60
+          "index": 3172,
+          "line": 72
         },
         "start": {
           "column": 0,
-          "index": 2230,
-          "line": 60
+          "index": 3172,
+          "line": 72
         }
       }
     },
@@ -119,7 +119,22 @@
           "line": 0
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/Dockerfile",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 41,
+          "line": 2
+        },
+        "start": {
+          "column": 0,
+          "index": 41,
+          "line": 2
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/.gitignore"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BesmaAI_Translater/app/src/main/java/com/besmainfoenergy/besmaai_translater/ApiClient.kt"
 }
